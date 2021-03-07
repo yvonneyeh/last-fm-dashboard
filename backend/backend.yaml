@@ -19,4 +19,4 @@ handlers:
   script: app.app
 
 env_variables:
-  LAST_FM_API_KEY: '{your API Key here}'
+  LAST_FM_API_KEY: af5e0f709f24def742f0b63cfb2b7db2
